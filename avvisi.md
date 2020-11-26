@@ -5,6 +5,21 @@
 # Dati COVID-19 Italia
 
 ## Avvisi
+<b>26/11/2020</b><br>
+La Regione Basilicata comunica che il dato sui casi guariti è in corso di verifica e il numero totale dei decessi comprende 1 paziente residente in altra regione con diagnosi e decesso avvenuto in struttura ospedaliera della regione Basilicata. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 2 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i casi di oggi riportano 104 positività da laboratori privati nel periodo 11-24 novembre.
+
+<b>25/11/2020</b><br>
+La Regione Emilia-Romagna segnala che in seguito a verifica sui dati comunicati nei giorni passati è stato eliminato 1 caso in quanto giudicato non caso COVID-19.
+
+<b>24/11/2020</b><br>
+La Regione Abruzzo comunica che dal totale dei casi positivi sono stati sottratti 2 casi del giorno 23/11 in quanto non pazienti COVID. La Regione Basilicata comunica che il numero odierno dei decessi (16) è riferito a più giornate dal 19 al 24 novembre. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 117 casi positivi registrati dai laboratori privati dal 21 ottobre al 21 novembre
+
+<b>23/11/2020</b><br>
+La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi comprendono 70 positività rilevate da laboratori privati nel periodo 9-21 novembre
+
+<b>22/11/2020</b><br>
+La Regione Friuli Venezia Giulia comunica che i nuovi casi di oggi includono 109 casi da laboratori privati di cui 67 compresi nel periodo dal 4 al 18 novembre.
+
 <b>21/11/2020</b><br>
 La Regione Abruzzo comunica che in data odierna sono stati conteggiati 26 decessi avvenuti nelle settimane precedenti e non ancora comunicati. La Regione Emilia Romagna comunica che in seguito a verifica sui dati comunicati nei giorni passati sono stati eliminati 3 casi in quanto giudicati non casi COVID-19. La Regione Basilicata comunica che è in corso di revisione il dati sul totale casi testati e sul totale tamponi effettuati. La Regione Friuli Venezia Giulia comunica che nei casi odierni sono compresi 88 casi registrati oggi a sistema dal flusso dati dei laboratori privati (date di prelievo comprese fra il 27 ottobre e 17 novembre)
 
