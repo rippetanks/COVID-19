@@ -2,16 +2,22 @@
 
 now=$(date +"%Y-%m-%d")
 
+cd ..
+
 git checkout master
-first_pull=$(git pull)
-echo $first_pull
+# disabled for security reasons
+# be sure to download updates from the repository, if necessary, manually
+#first_pull=$(git pull)
+#echo $first_pull
+first_pull="Already up-to-date."
+
 git fetch upstream
 second_pull=$(git pull upstream master)
 echo $second_pull
 
 if [[ $first_pull == "Already up-to-date." ]] && [[ $second_pull == "Already up-to-date." ]]; then
    echo "UP TO DATE"
-   #exit 0
+   exit 0
 fi
 
 cd ./notebook
