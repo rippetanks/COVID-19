@@ -40,4 +40,4 @@ jupyter nbconvert --to notebook --inplace --execute analisi_ultimi_14_giorni.ipy
 cd ..
 git add --all
 git commit -m $now
-git push
+git push origin master
