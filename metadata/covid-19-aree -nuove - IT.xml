@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<gmd:fileIdentifier>
 		<gco:CharacterString>PCM:000086_3:20201123:172500</gco:CharacterString>
@@ -532,6 +533,8 @@
 		</gmd:DQ_DataQuality>
 	</gmd:dataQualityInfo>
 =======
+=======
+>>>>>>> 56ac40655fe122d3fd170c958e1f5b5abf4b76ac
 <?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<gmd:fileIdentifier>
 		<gco:CharacterString>PCM:000086_3:20201123:172500</gco:CharacterString>
@@ -1064,6 +1067,9 @@
 			</gmd:lineage>
 		</gmd:DQ_DataQuality>
 	</gmd:dataQualityInfo>
+<<<<<<< HEAD
 >>>>>>> a2142e4d84a325364df87130268f4b5b590c6fe7
+=======
+>>>>>>> 56ac40655fe122d3fd170c958e1f5b5abf4b76ac
 </gmd:MD_Metadata>
 
